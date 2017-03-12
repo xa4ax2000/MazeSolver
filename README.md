@@ -15,6 +15,14 @@ Goals of this Project:
 Optional:
   -Application to Triangular Mazes [ ]
   -Application to Hexagonal Mazes [ ]
+  
 
+The mazes were generated using a third party program called Daedalus: www.astrolog.org/labyrnth/daedalus.htm
+The program has ben extracted and put inside the directory: ".../src/res/Daedalus"
+This program DOES NOT belong to me; however it has been used to generate the pixelized mazes that will be inserted to
+test cases and solve mazes. For more information regarding Daedalus and its usage, plase go to their site as I had 
+posted above.
+
+If you have any questions or regards feel free to contact me via e-mail.
 
 This README.txt will be updated as the project continues...
