@@ -15,8 +15,6 @@ Goals of this Project:
 Optional:
   -Application to Triangular Mazes [ ]
   -Application to Hexagonal Mazes [ ]
-  
-The Mazes found in the 'res' folder were downloaded from http://www.mazegenerator.net/ as a .png WITHOUT solution
 
 
 This README.txt will be updated as the project continues...
