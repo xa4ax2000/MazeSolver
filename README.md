@@ -23,6 +23,32 @@ This program DOES NOT belong to me; however it has been used to generate the pix
 test cases and solve mazes. For more information regarding Daedalus and its usage, plase go to their site as I had 
 posted above.
 
+Log4j2 API was added to the application project. It will be used to help log/debug portions of the project. For further
+information, you could see the comments inside of the java classes.
+
+Topics Include: 
+I/O-->
+  1. Browsing Directory for PNG file as well as selecting folder for solution output ([ ])
+  2. Parsing PNG image (Have to research an API that is capable of reading PNG pixels [ ])
+Swing GUI
+Logging-->
+  1. Using Apache Logging Log4j2 API (Manually imported; however, you could also use a Maven dependency)
+  2. FileAppender handling level DEBUG+ and ConsoleAppender handling level INFO+ (To be implemented [ ])
+RegEx-->
+  1. Possibility of incorporating RegEx to "check" filepath format ([ ])
+OOP Concepts -->
+  1. Proper Inheritance/Polymorphism (IS-A relationship established as well as usage of overriding -- dynamic polymorphism)
+    a. Maze Abstract Class with RectMaze Child Class, CircMaze Child Class.... ([ ])
+    b. MazeScan Abstract Class with RectScanner Child Class, CircScanner Child Class....([ ])
+  2. Proper Encapsulation
+    a. Utilizing the 'PRIVATE' access modifier to prevent access from outside classes
+    b. Incorporating Getters and Setters
+  3. Proper Abstraction
+    a. Hiding Implementation details 
+Event Handling -->
+  1. Utilizing Listeners to handle events such as a user 'clicking a button'.
+
+
 If you have any questions or regards feel free to contact me via e-mail.
 
 This README.txt will be updated as the project continues...
