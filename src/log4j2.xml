@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration monitorInterval="60">
+    <Properties>
+        <Property name="log-path">logs</Property>
+        <Property name="archive">${log-path}/archive</Property>
+    </Properties>
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%-5level] %d{yyyyMMdd-HHmmss} [%t] %M- %msg%n" />
+        </Console>
+        <File name="File-Appender" fileName="${log-path}/xmlfilelog.log">
+            <PatternLayout pattern="[%-5level] %d{yyyyMMdd-HHmmss} [%t] %M- %msg%n" />
+        </File>
+    </Appenders>
+    <Loggers>
+        <Logger name="mazesolver" level="debug">
+            <AppenderRef ref="Console" level="INFO"/>
+        </Logger>
+        <Root level="DEBUG">
+            <AppenderRef ref="File-Appender" level="DEBUG"/>
+        </Root>
+    </Loggers>
+</Configuration>

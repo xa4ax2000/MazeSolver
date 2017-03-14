@@ -3,13 +3,18 @@ package mazesolver;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
+import org.apache.log4j.Logger;
 
 /**
  *
  * @author Andrew Hyun
  */
 public class MazeSolver {
-    /* Declare Variables                                                      */
+    /* Define and Initialize Logger Variable -- For Debugging ~~~~~~~~~~~~~~~~*/
+    final static Logger log = Logger.getLogger(MazeSolver.class.getName());
+    /* End of Definition/Initialization of Logger Variable ~~~~~~~~~~~~~~~~~~~*/
+    
+    /* Declare Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     public static JButton btnGenerate;
     public static JButton btnExit;
     public static JButton btnBrowsePathPNG; // Has not been incorporated
@@ -19,10 +24,13 @@ public class MazeSolver {
     public static JPanel tabHex;
     public static JPanel tabRect;
     public static JPanel tabTri;
-    public static JTextField txtPathPNG; // Has not been incorporated
-    public static JTextField txtPathSolution; // Has not been incorporated
+    public static JTextField txtPathPNG; 
+    public static JTextField txtPathSolution; 
+    public static JLabel lblPathPNG;
+    public static JLabel lblPathSolution;
     public static int width = Toolkit.getDefaultToolkit().getScreenSize().width;
     public static int height = Toolkit.getDefaultToolkit().getScreenSize().height;
+    /* End of Declare Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     /* Method to initialize all components onto the JFrame                    **
     ** This includes setting up Listeners, setting titles, location, modality,**
@@ -40,6 +48,8 @@ public class MazeSolver {
         tabCirc = new JPanel();
         tabTri = new JPanel();
         tabHex = new JPanel();
+        lblPathPNG = new JLabel();
+        lblPathSolution = new JLabel();
         /* End of Initialize Swing Components/Containers ~~~~~~~~~~~~~~~~~~~~~*/
         
         /* Frame Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
@@ -57,6 +67,7 @@ public class MazeSolver {
         
         /* Button Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         btnBrowsePathPNG.setText("Browse");
+        btnBrowsePathPNG.setMinimumSize(new Dimension(90,30));
         btnBrowsePathPNG.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent evt) {
@@ -65,6 +76,7 @@ public class MazeSolver {
         });
         
         btnBrowsePathSolution.setText("Browse");
+        btnBrowsePathSolution.setMinimumSize(new Dimension(90,30));
         btnBrowsePathSolution.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent evt) {
@@ -73,6 +85,7 @@ public class MazeSolver {
         });
 
         btnGenerate.setText("Generate");
+        btnGenerate.setMinimumSize(new Dimension(90, 30));
         btnGenerate.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent evt) {
@@ -81,6 +94,7 @@ public class MazeSolver {
         });
 
         btnExit.setText("Exit");
+        btnExit.setMinimumSize(new Dimension(90, 30));
         btnExit.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent evt) {
@@ -90,36 +104,79 @@ public class MazeSolver {
         /* End of Button Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         
         /* Text Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-        txtPathPNG.setFont(new Font("Times New Roman", Font.BOLD, 12));
-        txtPathPNG.setSize(100, 50);
-        
-        txtPathSolution.setFont(new Font("Times New Roman", Font.BOLD, 12));
-        txtPathSolution.setSize(100, 50);
+        txtPathPNG.setFont(new Font("Times New Roman", Font.ITALIC, 15));
+        txtPathPNG.setMinimumSize(new Dimension(130, 15));
+        txtPathPNG.setMaximumSize(new Dimension(130, 30));
 
+        
+        txtPathSolution.setFont(new Font("Times New Roman", Font.ITALIC, 15));
+        txtPathSolution.setMinimumSize(new Dimension(130, 15));
+        txtPathSolution.setMaximumSize(new Dimension(130, 30));
         /* End of Text Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        
+        /* Label Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        lblPathPNG.setFont(new Font("Courier", Font.BOLD, 10));
+        lblPathPNG.setText("PATH-Maze.PNG");
+        lblPathPNG.setMinimumSize(new Dimension(80, 30));
+        
+        lblPathSolution.setFont(new Font("Courier", Font.BOLD, 10));
+        lblPathSolution.setText("PATH-Solution");
+        lblPathSolution.setMinimumSize(new Dimension(80, 30));
+        /* End of Label Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         
         /* Tab Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         /* ********************************************************************/
         /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~Start of Rect~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         GroupLayout tabRectLayout = new GroupLayout(tabRect);
         tabRect.setLayout(tabRectLayout);
-        tabRectLayout.setHorizontalGroup(
-            tabRectLayout.createParallelGroup(GroupLayout.Alignment.LEADING) //Leading alignment used because we are doing it relative to left edge
+        tabRectLayout.setHorizontalGroup( //Horizontal Group
+            tabRectLayout.createParallelGroup(GroupLayout.Alignment.LEADING)
             .addGroup(tabRectLayout.createSequentialGroup()
-                .addGap(90)
+                .addGap(100)
                 .addComponent(btnGenerate)
-                .addGap(60)
+                .addGap(20)
                 .addComponent(btnExit)
-                .addContainerGap(100, Short.MAX_VALUE))
+                .addContainerGap(25, Short.MAX_VALUE))
+            .addGroup(tabRectLayout.createSequentialGroup()
+                .addGap(25)
+                .addComponent(lblPathPNG)
+                .addGap(20)
+                .addComponent(txtPathPNG)
+                .addGap(20)
+                .addComponent(btnBrowsePathPNG)
+                .addContainerGap(25, Short.MAX_VALUE)
+                )
+            .addGroup(tabRectLayout.createSequentialGroup()
+                .addGap(25)
+                .addComponent(lblPathSolution)
+                .addGap(20)
+                .addComponent(txtPathSolution)
+                .addGap(20)
+                .addComponent(btnBrowsePathSolution)
+                .addContainerGap(25, Short.MAX_VALUE))
         );
-        tabRectLayout.setVerticalGroup(
-            tabRectLayout.createParallelGroup(GroupLayout.Alignment.LEADING) //Leading alignment used because we are doing it relative to top edge
+        tabRectLayout.setVerticalGroup( //Vertical Group
+            tabRectLayout.createParallelGroup(GroupLayout.Alignment.LEADING) 
             .addGroup(GroupLayout.Alignment.TRAILING, tabRectLayout.createSequentialGroup() 
-                .addContainerGap(100, Short.MAX_VALUE)
+                .addContainerGap(25, Short.MAX_VALUE)
                 .addGroup(tabRectLayout.createParallelGroup(GroupLayout.Alignment.BASELINE) 
                     .addComponent(btnGenerate)
                     .addComponent(btnExit))
                 .addGap(50))
+            .addGroup(GroupLayout.Alignment.TRAILING, tabRectLayout.createSequentialGroup()
+                .addContainerGap(25, Short.MAX_VALUE)
+                .addGroup(tabRectLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                    .addComponent(lblPathPNG)
+                    .addComponent(txtPathPNG)
+                    .addComponent(btnBrowsePathPNG))
+                .addGap(200))
+            .addGroup(GroupLayout.Alignment.TRAILING, tabRectLayout.createSequentialGroup()
+                .addContainerGap(25, Short.MAX_VALUE)
+                .addGroup(tabRectLayout.createParallelGroup(GroupLayout.Alignment.BASELINE)
+                    .addComponent(lblPathSolution)
+                    .addComponent(txtPathSolution)
+                    .addComponent(btnBrowsePathSolution))
+                .addGap(150))
         );
 
         tabMaze.addTab("Rectangular", tabRect);
@@ -199,23 +256,26 @@ public class MazeSolver {
     
     //When btnBrowsePathSolution is clicked perform an event
     public static void btnBrowsePathSolutionActionPerformed(ActionEvent evt){
-    
+        System.out.println("btnBrowsesol");
     };
 
     
     //When btnBrowsePathPNG is clicked perform an avent
     public static void btnBrowsePathPNGActionPerformed(ActionEvent evt){
-    
+        System.out.println("btnBrowsesol");
+
     }
     
     //When btnGenerate is clicked perform an event
     public static void btnGenerateActionPerformed(ActionEvent evt){
-        
+        System.out.println("btnBrowsesol");
+
     }
     
     //When btnExit is clicked perform an event
     public static void btnExitActionPerformed(ActionEvent evt){
-        
+        System.out.println("btnBrowsesol");
+
     }
     
     /* I am unfamiliar with good coding practice; however, I believe proper   **
@@ -228,11 +288,10 @@ public class MazeSolver {
         
         //Create a JFrame and intialize components in JFrame
         JFrame frame = new JFrame();
+        
+        
         initComponents(frame);
-        frame.setVisible(true);
-        
-        System.out.println("Hello");
-        
+        frame.setVisible(true);       
     }
     
 }
