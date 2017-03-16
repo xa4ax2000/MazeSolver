@@ -2,8 +2,11 @@ package mazesolver;
 
 import java.awt.*;
 import java.awt.event.*;
+import java.io.File;
 import javax.swing.*;
-import org.apache.log4j.Logger;
+import mazesolver.Mazes.RectMaze;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 /**
  *
@@ -11,25 +14,30 @@ import org.apache.log4j.Logger;
  */
 public class MazeSolver {
     /* Define and Initialize Logger Variable -- For Debugging ~~~~~~~~~~~~~~~~*/
-    final static Logger log = Logger.getLogger(MazeSolver.class.getName());
+    final static Logger LOG = LogManager.getLogger(MazeSolver.class.getName());
     /* End of Definition/Initialization of Logger Variable ~~~~~~~~~~~~~~~~~~~*/
     
     /* Declare Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-    public static JButton btnGenerate;
-    public static JButton btnExit;
-    public static JButton btnBrowsePathPNG; // Has not been incorporated
-    public static JButton btnBrowsePathSolution; //Has not been incorporated
-    public static JTabbedPane tabMaze;
-    public static JPanel tabCirc;
-    public static JPanel tabHex;
-    public static JPanel tabRect;
-    public static JPanel tabTri;
-    public static JTextField txtPathPNG; 
-    public static JTextField txtPathSolution; 
-    public static JLabel lblPathPNG;
-    public static JLabel lblPathSolution;
-    public static int width = Toolkit.getDefaultToolkit().getScreenSize().width;
-    public static int height = Toolkit.getDefaultToolkit().getScreenSize().height;
+    private static File filePNG;
+    private static String stringPathSolution;
+    private static JFrame frame;
+    private static JFileChooser fcPNG;
+    private static JFileChooser fcFolder;
+    private static JButton btnGenerate;
+    private static JButton btnExit;
+    private static JButton btnBrowsePathPNG; // Has not been incorporated
+    private static JButton btnBrowsePathSolution; //Has not been incorporated
+    private static JTabbedPane tabMaze;
+    private static JPanel tabCirc;
+    private static JPanel tabHex;
+    private static JPanel tabRect;
+    private static JPanel tabTri;
+    private static JTextField txtPathPNG; 
+    private static JTextField txtPathSolution; 
+    private static JLabel lblPathPNG;
+    private static JLabel lblPathSolution;
+    private static final int WIDTH = Toolkit.getDefaultToolkit().getScreenSize().width;
+    private static final int HEIGHT = Toolkit.getDefaultToolkit().getScreenSize().height;
     /* End of Declare Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     /* Method to initialize all components onto the JFrame                    **
@@ -37,6 +45,8 @@ public class MazeSolver {
     ** enabling, etc.                                                         */
     public static void initComponents(JFrame frame){
         /* Initialize Swing Components/Containers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        fcPNG = new JFileChooser();
+        fcFolder = new JFileChooser();
         tabMaze = new JTabbedPane();
         btnBrowsePathPNG = new JButton();
         btnBrowsePathSolution = new JButton();
@@ -59,7 +69,18 @@ public class MazeSolver {
         frame.setLocation(new Point(0, 0));
         frame.setLocationByPlatform(true);
         frame.setResizable(false);
+        frame.setUndecorated(true);
         /* End of Frame Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        
+        /* JFileChooser Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        fcPNG.setCurrentDirectory(new File("./src/res/Mazes/Rectangular"));
+        fcPNG.setDialogTitle("Choose Rectangular Maze.PNG");
+        fcPNG.setFileSelectionMode(JFileChooser.FILES_ONLY);
+        
+        fcFolder.setCurrentDirectory(new File("."));
+        fcFolder.setDialogTitle("Choose Folder to store solution output");
+        fcFolder.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+        /* End of JFileChooser Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         
         /* Tabbed Container Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         tabMaze.setPreferredSize(new Dimension(400, 300));
@@ -254,29 +275,85 @@ public class MazeSolver {
         /* End of Frame Layout Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     }
     
+    /* Event Handling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        //When btnBrowsePathPNG is clicked perform an avent
+    public static void btnBrowsePathPNGActionPerformed(ActionEvent evt){
+        LOG.debug("Entering btnBrowsePathPNGActionPerformed...");
+        
+        try{
+            fcPNG.showOpenDialog(btnBrowsePathPNG);
+            if(fcPNG.getSelectedFile() != null){
+                LOG.info("File selected. PNG Textfield has been updated");
+                filePNG = fcPNG.getSelectedFile();
+                txtPathPNG.setText(filePNG.getAbsolutePath());
+            }
+            else{
+                LOG.info("No File was selected -- no update has occured to PNG Textfield.");
+            }
+        }catch(Exception ex){
+            LOG.error("Error has occured: " + ex.toString());
+        }
+        
+        LOG.debug("Exiting btnBrowsePathPNGActionPerformed...");
+    }
+    
     //When btnBrowsePathSolution is clicked perform an event
     public static void btnBrowsePathSolutionActionPerformed(ActionEvent evt){
-        System.out.println("btnBrowsesol");
+        LOG.debug("Entering btnBrowsePathSolutionActionPerformed...");
+        
+        try{
+            fcFolder.showOpenDialog(btnBrowsePathSolution);
+            if(fcFolder.getSelectedFile() != null){
+                LOG.info("Folder selected. Solution Folder Textfield has been updated");
+                stringPathSolution = fcFolder.getSelectedFile().getAbsolutePath();
+                txtPathSolution.setText(stringPathSolution);
+            }
+            else{
+                LOG.info("No Folder selected -- no update has occurred to Folder Textfield");
+            }
+        }catch(Exception ex){
+            LOG.error("Error has occured: " + ex.toString());
+        }
+        
+        LOG.debug("Exiting btnBrowsePathSolutionActionPerformed...");
     };
-
-    
-    //When btnBrowsePathPNG is clicked perform an avent
-    public static void btnBrowsePathPNGActionPerformed(ActionEvent evt){
-        System.out.println("btnBrowsesol");
-
-    }
     
     //When btnGenerate is clicked perform an event
     public static void btnGenerateActionPerformed(ActionEvent evt){
-        System.out.println("btnBrowsesol");
-
+        LOG.debug("Entering btnGenerateActionPerformed...");
+        
+        if(txtPathPNG.getText() != null || !txtPathPNG.getText().equals("")){
+            if(txtPathSolution.getText() != null || !txtPathSolution.getText().equals("")){
+                if(filePNG != null){
+                    RectMaze rectMaze = new RectMaze(filePNG, stringPathSolution);
+                    rectMaze.solve();
+                    //Continue
+                }
+                else{
+                    LOG.warn("Failed to obtain a file -- File was NULL");
+                }
+            }
+            else{
+                LOG.warn("The textfield for the solution folder dir is empty");
+            }
+        }
+        else{
+            LOG.warn("The textfield for the PNG path is empty");
+        }
+        
+        LOG.debug("Exiting btnGenerateActionPerformed...");
     }
     
     //When btnExit is clicked perform an event
     public static void btnExitActionPerformed(ActionEvent evt){
-        System.out.println("btnBrowsesol");
-
+        LOG.debug("Entering btnExitActionPerformed...");
+        
+        frame.dispose();
+        
+        LOG.debug("Exiting btnExitActionPerformed...");
     }
+    /* End of Event Handling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+    
     
     /* I am unfamiliar with good coding practice; however, I believe proper   **
     ** coding practice states to remove logic from the main class and method. **
@@ -285,13 +362,14 @@ public class MazeSolver {
     ** Everything found in the main class will either call another object to  **
     ** handle the logic and algorithm, or handle the GUI.                     */
     public static void main(String[] args) throws InterruptedException { 
+        //Intialize frame and its components and make visible when complete
+        LOG.debug("Initializing GUI components");
         
-        //Create a JFrame and intialize components in JFrame
-        JFrame frame = new JFrame();
+        frame = new JFrame();
+        initComponents(frame);    
+        frame.setVisible(true);    
         
-        
-        initComponents(frame);
-        frame.setVisible(true);       
+        LOG.debug("Initialization Complete");
     }
     
 }

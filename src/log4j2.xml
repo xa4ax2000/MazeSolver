@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration monitorInterval="60">
     <Properties>
-        <Property name="log-path">logs</Property>
+        <Property name="log-path">C:/Users/Andrew Hyun/Programming Adventure!/JAVA ADVENTURE/J2SE/MazeSolver/src/res/Logs</Property>
         <Property name="archive">${log-path}/archive</Property>
     </Properties>
     <Appenders>
@@ -9,7 +9,7 @@
             <PatternLayout pattern="[%-5level] %d{yyyyMMdd-HHmmss} [%t] %M- %msg%n" />
         </Console>
         <File name="File-Appender" fileName="${log-path}/xmlfilelog.log">
-            <PatternLayout pattern="[%-5level] %d{yyyyMMdd-HHmmss} [%t] %M- %msg%n" />
+            <PatternLayout pattern="[%-5level] %d{MM/dd/yyyy-HH:mm:ss} [%t] %M- %msg%n" />
         </File>
     </Appenders>
     <Loggers>

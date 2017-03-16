@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mazesolver;
+package mazesolver.Algorithms;
 
 /**
  *
  * @author Andrew Hyun
  */
-public class Maze {
+public abstract class Algorithm {
     
 }

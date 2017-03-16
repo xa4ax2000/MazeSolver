@@ -1,0 +1,111 @@
+[DEBUG] 03/14/2017-01:52:46 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-01:52:47 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:20:38 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:20:39 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:22:49 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:22:49 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:22:50 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:22:50 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:25:03 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:25:03 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:25:09 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:25:09 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:36:25 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:36:25 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:38:03 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:38:04 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:39:16 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:39:16 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:46:26 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:46:26 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:48:04 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:48:05 [main] main- Initialization Complete
+[ERROR] 03/14/2017-02:48:07 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Error has occured: java.lang.NullPointerExceptionjava.lang.NullPointerException
+[DEBUG] 03/14/2017-02:49:56 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:49:57 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:51:06 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:51:07 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:51:10 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:51:10 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:51:28 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:51:29 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:51:32 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:51:32 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:51:38 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:51:38 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:51:42 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:51:42 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:52:46 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:52:47 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:52:52 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:52:52 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:53:06 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:53:07 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:53:10 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:53:10 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:53:18 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:53:19 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:53:43 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:53:43 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:53:53 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:53:54 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:53:58 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:53:58 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-02:54:05 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-02:54:06 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-02:54:41 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-02:54:41 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-03:00:48 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-03:00:49 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-03:00:50 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- PNG browse button pushed...
+[DEBUG] 03/14/2017-03:00:51 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- No File was selected -- no update has occured to PNG Textfield.
+[DEBUG] 03/14/2017-03:00:52 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- PNG browse button pushed...
+[DEBUG] 03/14/2017-03:00:53 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/14/2017-03:00:54 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Solution Folder browse button pushed...
+[DEBUG] 03/14/2017-03:00:54 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- No Folder selected -- no update has occurred to Folder Textfield
+[DEBUG] 03/14/2017-03:00:55 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Solution Folder browse button pushed...
+[DEBUG] 03/14/2017-03:00:56 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- No Folder selected -- no update has occurred to Folder Textfield
+[DEBUG] 03/14/2017-03:00:57 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Solution Folder browse button pushed...
+[DEBUG] 03/14/2017-03:01:10 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/14/2017-03:01:18 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-03:01:18 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-03:12:25 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-03:12:26 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-03:12:27 [AWT-EventQueue-0] btnGenerateActionPerformed- Generate Button clicked... Checking if textfields are filled and file was selected.
+[WARN ] 03/14/2017-03:12:27 [AWT-EventQueue-0] btnGenerateActionPerformed- Failed to obtain a file -- File was NULL
+[DEBUG] 03/14/2017-03:13:35 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-03:13:35 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/14/2017-03:18:19 [main] main- Initializing GUI components
+[DEBUG] 03/14/2017-03:18:20 [main] main- Initialization Complete
+[DEBUG] 03/14/2017-03:18:21 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Entered...
+[INFO ] 03/14/2017-03:18:22 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- No File was selected -- no update has occured to PNG Textfield.
+[DEBUG] 03/14/2017-03:18:22 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Exited...
+[DEBUG] 03/14/2017-03:18:25 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Entered...
+[INFO ] 03/14/2017-03:18:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/14/2017-03:18:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Exited...
+[DEBUG] 03/14/2017-03:18:30 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- btnBrowsePathSolutionActionPerformed Entered...
+[DEBUG] 03/14/2017-03:18:39 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/14/2017-03:18:39 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- btnBrowsePathSolutionActionPerformed Exited...
+[DEBUG] 03/14/2017-03:18:41 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Entered...
+[INFO ] 03/14/2017-03:18:42 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/14/2017-03:18:42 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Exited...
+[DEBUG] 03/14/2017-03:18:44 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
+[DEBUG] 03/14/2017-03:18:44 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
+[DEBUG] 03/15/2017-23:32:08 [main] main- Initializing GUI components
+[DEBUG] 03/15/2017-23:32:11 [main] main- Initialization Complete
+[DEBUG] 03/15/2017-23:32:13 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[WARN ] 03/15/2017-23:32:13 [AWT-EventQueue-0] btnGenerateActionPerformed- Failed to obtain a file -- File was NULL
+[DEBUG] 03/15/2017-23:32:13 [AWT-EventQueue-0] btnGenerateActionPerformed- Exiting btnGenerateActionPerformed...
+[DEBUG] 03/15/2017-23:53:24 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/15/2017-23:53:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/15/2017-23:53:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/15/2017-23:53:28 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/15/2017-23:53:41 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/15/2017-23:53:41 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] <init>- Entering Maze class constructor...
+[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] <init>- Exiting Maze class constructor...
+[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] solve- Entering solve()...
+[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] btnGenerateActionPerformed- Exiting btnGenerateActionPerformed...
+[DEBUG] 03/15/2017-23:54:54 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/15/2017-23:54:54 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
