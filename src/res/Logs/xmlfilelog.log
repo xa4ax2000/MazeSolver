@@ -1,111 +1,1251 @@
-[DEBUG] 03/14/2017-01:52:46 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-01:52:47 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:20:38 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:20:39 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:22:49 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:22:49 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:22:50 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:22:50 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:25:03 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:25:03 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:25:09 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:25:09 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:36:25 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:36:25 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:38:03 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:38:04 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:39:16 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:39:16 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:46:26 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:46:26 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:48:04 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:48:05 [main] main- Initialization Complete
-[ERROR] 03/14/2017-02:48:07 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Error has occured: java.lang.NullPointerExceptionjava.lang.NullPointerException
-[DEBUG] 03/14/2017-02:49:56 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:49:57 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:51:06 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:51:07 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:51:10 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:51:10 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:51:28 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:51:29 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:51:32 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:51:32 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:51:38 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:51:38 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:51:42 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:51:42 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:52:46 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:52:47 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:52:52 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:52:52 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:53:06 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:53:07 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:53:10 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:53:10 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:53:18 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:53:19 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:53:43 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:53:43 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:53:53 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:53:54 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:53:58 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:53:58 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-02:54:05 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-02:54:06 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-02:54:41 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-02:54:41 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-03:00:48 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-03:00:49 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-03:00:50 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- PNG browse button pushed...
-[DEBUG] 03/14/2017-03:00:51 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- No File was selected -- no update has occured to PNG Textfield.
-[DEBUG] 03/14/2017-03:00:52 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- PNG browse button pushed...
-[DEBUG] 03/14/2017-03:00:53 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
-[DEBUG] 03/14/2017-03:00:54 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Solution Folder browse button pushed...
-[DEBUG] 03/14/2017-03:00:54 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- No Folder selected -- no update has occurred to Folder Textfield
-[DEBUG] 03/14/2017-03:00:55 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Solution Folder browse button pushed...
-[DEBUG] 03/14/2017-03:00:56 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- No Folder selected -- no update has occurred to Folder Textfield
-[DEBUG] 03/14/2017-03:00:57 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Solution Folder browse button pushed...
-[DEBUG] 03/14/2017-03:01:10 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
-[DEBUG] 03/14/2017-03:01:18 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-03:01:18 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-03:12:25 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-03:12:26 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-03:12:27 [AWT-EventQueue-0] btnGenerateActionPerformed- Generate Button clicked... Checking if textfields are filled and file was selected.
-[WARN ] 03/14/2017-03:12:27 [AWT-EventQueue-0] btnGenerateActionPerformed- Failed to obtain a file -- File was NULL
-[DEBUG] 03/14/2017-03:13:35 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-03:13:35 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/14/2017-03:18:19 [main] main- Initializing GUI components
-[DEBUG] 03/14/2017-03:18:20 [main] main- Initialization Complete
-[DEBUG] 03/14/2017-03:18:21 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Entered...
-[INFO ] 03/14/2017-03:18:22 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- No File was selected -- no update has occured to PNG Textfield.
-[DEBUG] 03/14/2017-03:18:22 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Exited...
-[DEBUG] 03/14/2017-03:18:25 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Entered...
-[INFO ] 03/14/2017-03:18:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
-[DEBUG] 03/14/2017-03:18:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Exited...
-[DEBUG] 03/14/2017-03:18:30 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- btnBrowsePathSolutionActionPerformed Entered...
-[DEBUG] 03/14/2017-03:18:39 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
-[DEBUG] 03/14/2017-03:18:39 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- btnBrowsePathSolutionActionPerformed Exited...
-[DEBUG] 03/14/2017-03:18:41 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Entered...
-[INFO ] 03/14/2017-03:18:42 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
-[DEBUG] 03/14/2017-03:18:42 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- btnBrowsePathPNGActionPerformed Exited...
-[DEBUG] 03/14/2017-03:18:44 [AWT-EventQueue-0] btnExitActionPerformed- Exit button clicked and dispose method initializing
-[DEBUG] 03/14/2017-03:18:44 [AWT-EventQueue-0] btnExitActionPerformed- Dispose method exiting
-[DEBUG] 03/15/2017-23:32:08 [main] main- Initializing GUI components
-[DEBUG] 03/15/2017-23:32:11 [main] main- Initialization Complete
-[DEBUG] 03/15/2017-23:32:13 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
-[WARN ] 03/15/2017-23:32:13 [AWT-EventQueue-0] btnGenerateActionPerformed- Failed to obtain a file -- File was NULL
-[DEBUG] 03/15/2017-23:32:13 [AWT-EventQueue-0] btnGenerateActionPerformed- Exiting btnGenerateActionPerformed...
-[DEBUG] 03/15/2017-23:53:24 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
-[INFO ] 03/15/2017-23:53:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
-[DEBUG] 03/15/2017-23:53:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
-[DEBUG] 03/15/2017-23:53:28 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
-[INFO ] 03/15/2017-23:53:41 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
-[DEBUG] 03/15/2017-23:53:41 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
-[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
-[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] <init>- Entering Maze class constructor...
-[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] <init>- Exiting Maze class constructor...
-[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] solve- Entering solve()...
-[DEBUG] 03/15/2017-23:53:43 [AWT-EventQueue-0] btnGenerateActionPerformed- Exiting btnGenerateActionPerformed...
-[DEBUG] 03/15/2017-23:54:54 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
-[DEBUG] 03/15/2017-23:54:54 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-01:40:04 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-01:40:05 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-01:40:06 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-01:40:07 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-01:40:07 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-01:40:10 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- Connecting adjacent 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Entering connectMAZEAdjacentNodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 7
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 8
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 5
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 6
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Exiting connectMAZEAdjacentNodes...
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- Adjacent 'MAZE' Node Connection Complete.
+[INFO ] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- Connection of ALL Nodes Complete.
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] toGraph- Exiting RectMaze.toGraph()...
+[DEBUG] 03/17/2017-01:40:11 [AWT-EventQueue-0] btnGenerateActionPerformed- Exiting btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-01:42:23 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-01:42:23 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:20:39 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:20:40 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:20:45 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:20:47 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:20:47 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:20:47 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:20:48 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:20:48 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:20:50 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:20:50 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:27:12 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:27:12 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:27:19 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:27:19 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:27:20 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:27:21 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:27:21 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:27:22 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:27:23 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:27:23 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:27:24 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:27:24 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:27:35 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:27:35 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:28:26 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:28:26 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:28:27 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:28:28 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:28:28 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:28:29 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:28:30 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:28:30 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:28:31 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:28:31 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:28:34 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:28:34 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:28:40 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:28:41 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:28:42 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:28:44 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:28:44 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:28:44 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:28:46 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:28:46 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:28:49 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:28:49 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:28:51 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:28:51 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:32:46 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:32:47 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:32:48 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:32:50 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:32:50 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:32:50 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:32:52 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:32:52 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:32:53 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:32:53 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:33:01 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:33:01 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:35:39 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:35:40 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:35:42 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:35:45 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:35:45 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:35:47 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:35:48 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:35:48 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:35:49 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:35:49 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:36:16 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:36:16 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:43:31 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:43:32 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:43:33 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:43:34 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:43:34 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:43:35 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:43:37 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:43:37 [AWT-EventQueue-0] connectEntranceExitAdjNodes- adding adj node at: 18, 11).
+[DEBUG] 03/17/2017-02:43:40 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:43:40 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:46:24 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:46:25 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:46:26 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:46:27 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:46:27 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:46:28 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:46:28 [AWT-EventQueue-0] connectEntranceExitAdjNodes- adding adj node at: 17, 11).
+[DEBUG] 03/17/2017-02:46:34 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:46:34 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:49:20 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:49:20 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:49:22 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:49:23 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:49:23 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:49:23 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:49:24 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- No Folder selected -- no update has occurred to Folder Textfield
+[DEBUG] 03/17/2017-02:49:24 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:49:27 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:49:28 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:49:28 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:49:30 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:49:30 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:49:39 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:49:39 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:52:10 [main] main- Initializing GUI components
+[DEBUG] 03/17/2017-02:52:11 [main] main- Initialization Complete
+[DEBUG] 03/17/2017-02:52:12 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Entering btnBrowsePathPNGActionPerformed...
+[INFO ] 03/17/2017-02:52:13 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- File selected. PNG Textfield has been updated
+[DEBUG] 03/17/2017-02:52:13 [AWT-EventQueue-0] btnBrowsePathPNGActionPerformed- Exiting btnBrowsePathPNGActionPerformed...
+[DEBUG] 03/17/2017-02:52:14 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Entering btnBrowsePathSolutionActionPerformed...
+[INFO ] 03/17/2017-02:52:15 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Folder selected. Solution Folder Textfield has been updated
+[DEBUG] 03/17/2017-02:52:15 [AWT-EventQueue-0] btnBrowsePathSolutionActionPerformed- Exiting btnBrowsePathSolutionActionPerformed...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] btnGenerateActionPerformed- Entering btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Entering Maze Class constructor...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Image file has been initialized.
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Exiting Maze Class constructor...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Entering RectMaze Constructor...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Pixel width and height adjustment (if necessary) occurring...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Adjusted Width is: 19 and Height is: 19
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Exiting RectMaze Constructor...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- Entering RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] <init>- Entering Graph Constructor...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being identified...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] getStartExitNodes- Entering getStartExitNodes...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] getStartExitNodes- Traversing outer edge of PNG, Defining Start and End Nodes...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] getStartExitNodes- Outer Edge Traversal Complete.
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] getStartExitNodes- Exiting getStartExitNodes...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes obtained.
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- 'MAZE' Nodes are being filled into the array...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] setMazeNodes- Entering setMazeNodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] setMazeNodes- Exiting setMazeNodes...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- 'MAZE' Node Filling Completed.
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Entering connectEntranceExitAdjNodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectEntranceExitAdjNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectEntranceExitAdjNodes- adding adj node at: 1, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectEntranceExitAdjNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectEntranceExitAdjNodes- adding adj node at: 17, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectEntranceExitAdjNodes- Exiting connectEntranceExitAdjNodes...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- 'START' and 'EXIT' Nodes Connection Complete.
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- Connecting adjacent 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Entering connectMAZEAdjacentNodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 11, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 5).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 1).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 3).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 11, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 11, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 7).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 0, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 11, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 11, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 18, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 9).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 7
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 8
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 7, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- downWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 13).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 3, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 1, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 5, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 13, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 9, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 15).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- rightWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Adding adjacent Nodes for 'MAZE' Nodes...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 3
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 4
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 5
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- upWhite counter == 6
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 17, 11).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 1
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- leftWhite counter == 2
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- adding adj node at: 15, 17).
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] connectMAZEAdjacentNodes- Exiting connectMAZEAdjacentNodes...
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- Adjacent 'MAZE' Node Connection Complete.
+[INFO ] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- Connection of ALL Nodes Complete.
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] toGraph- Exiting RectMaze.toGraph()...
+[DEBUG] 03/17/2017-02:52:16 [AWT-EventQueue-0] btnGenerateActionPerformed- Exiting btnGenerateActionPerformed...
+[DEBUG] 03/17/2017-02:52:25 [AWT-EventQueue-0] btnExitActionPerformed- Entering btnExitActionPerformed...
+[DEBUG] 03/17/2017-02:52:25 [AWT-EventQueue-0] btnExitActionPerformed- Exiting btnExitActionPerformed...

@@ -2,6 +2,9 @@ package mazesolver.Mazes;
 
 import java.awt.image.Raster;
 import java.io.File;
+import mazesolver.Containers.Graph;
+import mazesolver.Containers.Node;
+import mazesolver.Containers.Type;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -18,6 +21,8 @@ public class RectMaze extends Maze{
     /* Define variables/containers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         private static int width, height;
         private static Raster scannedImage;
+        private Node[][] mazeToNodeArray;
+        private Node start, exit;
     //  Graph imgGraph;
     /* End of defining variables/containers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
@@ -47,10 +52,62 @@ public class RectMaze extends Maze{
     }
     /* End of Constructor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
+    /* Start of Object's functions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     @Override
     public void toGraph() {
         LOG.debug("Entering RectMaze.toGraph()...");
         
+        /* Initialize an array to hold Nodes or null values                   */
+        mazeToNodeArray = new Node[width][height];
+        
+        /* Initialize Graph to create Graph                                   */
+        Graph graph = new Graph(mazeToNodeArray, scannedImage, width, height);
+        
+        /* Define "START" and "EXIT" Node's adjacent Nodes ~~~~~~~~~~~~~~~~~~~*/
+        LOG.info("'START' and 'EXIT' Nodes are being identified...");
+        //Obtain Start and Exit Nodes
+        Node[] nodesStartExit = graph.getStartExitNodes();
+        start = nodesStartExit[0];
+        exit = nodesStartExit[1];
+        LOG.info("'START' and 'EXIT' Nodes obtained.");
+        /* End of Defining "START" and "EXIT" Nodes ~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+        /* Filling 'MAZE' Nodes into the Array ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        LOG.info("'MAZE' Nodes are being filled into the array...");
+        //Set the 'MAZE' Nodes in the Node[][]
+        graph.setMazeNodes();
+        LOG.info("'MAZE' Node Filling Completed.");
+        /* End of filling 'MAZE Nodes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+                
+        /* Connecting 'START' and 'EXIT' adjacent nodes ~~~~~~~~~~~~~~~~~~~~~~*/
+        LOG.info("'START' and 'EXIT' Nodes are being connected to Adjacent Nodes...");
+        graph.connectEntranceExitAdjNodes(start, exit);
+        LOG.info("'START' and 'EXIT' Nodes Connection Complete.");
+        /* End of Connecting 'START' and 'EXIT' adjacent nodes ~~~~~~~~~~~~~~~*/
+        
+        /* Defining "MAZE" Node's adjacent Nodes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        LOG.info("Connecting adjacent 'MAZE' Nodes...");
+        graph.connectMAZEAdjacentNodes();
+        LOG.info("Adjacent 'MAZE' Node Connection Complete.");
+        /* End of Defining "MAZE" Node's adjacent Nodes ~~~~~~~~~~~~~~~~~~~~~~*/
+        
+        LOG.info("Connection of ALL Nodes Complete.");
+ 
+        /* DEBUG CODE: We will view mazeToNodeArray[][]: ~~~~~~~~~~~~~~~~~~~~~**
+        ** Comment this out when done ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        //Binary representation of maze:
+        for(int i = 0; i < height; i++){
+            for(int j = 0; j < width; j++){
+                if(mazeToNodeArray[j][i] == null){
+                    System.out.print("0 ");
+                }else{System.out.print("1 ");}
+            }
+            System.out.println();
+        }
+        
+        //Display a given node's adjacent nodes
+        
+        /* END OF DEBUG CODE ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         
         
         LOG.debug("Exiting RectMaze.toGraph()...");
@@ -58,7 +115,7 @@ public class RectMaze extends Maze{
 
     @Override
     public void draw() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+
     }
-    
+    /* End of Object's functions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 }

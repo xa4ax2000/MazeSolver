@@ -326,7 +326,7 @@ public class MazeSolver {
             if(txtPathSolution.getText() != null || !txtPathSolution.getText().equals("")){
                 if(filePNG != null){
                     RectMaze rectMaze = new RectMaze(filePNG, stringPathSolution);
-                    rectMaze.solve();
+                    rectMaze.toGraph();
                     //Continue
                 }
                 else{
