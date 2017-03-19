@@ -3,7 +3,14 @@ package mazesolver;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.File;
+import javax.imageio.ImageIO;
 import javax.swing.*;
+import javax.swing.filechooser.FileFilter;
+import javax.swing.filechooser.FileNameExtensionFilter;
+import mazesolver.Algorithms.Algorithm;
+import mazesolver.Algorithms.BFS;
+import mazesolver.Containers.Graph;
+import mazesolver.Containers.Node;
 import mazesolver.Mazes.RectMaze;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -36,8 +43,6 @@ public class MazeSolver {
     private static JTextField txtPathSolution; 
     private static JLabel lblPathPNG;
     private static JLabel lblPathSolution;
-    private static final int WIDTH = Toolkit.getDefaultToolkit().getScreenSize().width;
-    private static final int HEIGHT = Toolkit.getDefaultToolkit().getScreenSize().height;
     /* End of Declare Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     /* Method to initialize all components onto the JFrame                    **
@@ -60,6 +65,8 @@ public class MazeSolver {
         tabHex = new JPanel();
         lblPathPNG = new JLabel();
         lblPathSolution = new JLabel();
+        FileFilter imageFilter = new FileNameExtensionFilter(
+                "Image files", ImageIO.getReaderFileSuffixes());
         /* End of Initialize Swing Components/Containers ~~~~~~~~~~~~~~~~~~~~~*/
         
         /* Frame Settings ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
@@ -76,6 +83,7 @@ public class MazeSolver {
         fcPNG.setCurrentDirectory(new File("./src/res/Mazes/Rectangular"));
         fcPNG.setDialogTitle("Choose Rectangular Maze.PNG");
         fcPNG.setFileSelectionMode(JFileChooser.FILES_ONLY);
+        fcPNG.setFileFilter(imageFilter);
         
         fcFolder.setCurrentDirectory(new File("."));
         fcFolder.setDialogTitle("Choose Folder to store solution output");
@@ -278,7 +286,7 @@ public class MazeSolver {
     /* Event Handling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         //When btnBrowsePathPNG is clicked perform an avent
     public static void btnBrowsePathPNGActionPerformed(ActionEvent evt){
-        LOG.debug("Entering btnBrowsePathPNGActionPerformed...");
+        LOG.debug("Entering MazeSolver.btnBrowsePathPNGActionPerformed()...");
         
         try{
             fcPNG.showOpenDialog(btnBrowsePathPNG);
@@ -294,12 +302,12 @@ public class MazeSolver {
             LOG.error("Error has occured: " + ex.toString());
         }
         
-        LOG.debug("Exiting btnBrowsePathPNGActionPerformed...");
+        LOG.debug("Exiting MazeSolver.btnBrowsePathPNGActionPerformed()...");
     }
     
     //When btnBrowsePathSolution is clicked perform an event
     public static void btnBrowsePathSolutionActionPerformed(ActionEvent evt){
-        LOG.debug("Entering btnBrowsePathSolutionActionPerformed...");
+        LOG.debug("Entering MazeSolver.btnBrowsePathSolutionActionPerformed()...");
         
         try{
             fcFolder.showOpenDialog(btnBrowsePathSolution);
@@ -315,18 +323,22 @@ public class MazeSolver {
             LOG.error("Error has occured: " + ex.toString());
         }
         
-        LOG.debug("Exiting btnBrowsePathSolutionActionPerformed...");
+        LOG.debug("Exiting MazeSolver.btnBrowsePathSolutionActionPerformed()...");
     };
     
     //When btnGenerate is clicked perform an event
     public static void btnGenerateActionPerformed(ActionEvent evt){
-        LOG.debug("Entering btnGenerateActionPerformed...");
-        
-        if(txtPathPNG.getText() != null || !txtPathPNG.getText().equals("")){
-            if(txtPathSolution.getText() != null || !txtPathSolution.getText().equals("")){
+        LOG.debug("Entering MazeSolver.btnGenerateActionPerformed()...");
+        if(!txtPathPNG.getText().equals("")){
+            if(!txtPathSolution.getText().equals("")){
                 if(filePNG != null){
-                    RectMaze rectMaze = new RectMaze(filePNG, stringPathSolution);
-                    rectMaze.toGraph();
+                    Graph graph = new Graph(filePNG, stringPathSolution, RectMaze.class.getName());
+                    Node[] nodeStartExit = graph.createGraph();
+                    //if(BFS chosen then...
+                    Algorithm alg = new BFS(nodeStartExit[0], nodeStartExit[1]);
+                    alg.findSolution();
+                    
+                    System.out.println(alg.getTime() + " seconds to finish");
                     //Continue
                 }
                 else{
@@ -341,16 +353,16 @@ public class MazeSolver {
             LOG.warn("The textfield for the PNG path is empty");
         }
         
-        LOG.debug("Exiting btnGenerateActionPerformed...");
+        LOG.debug("Exiting MazeSolver.btnGenerateActionPerformed()...");
     }
     
     //When btnExit is clicked perform an event
     public static void btnExitActionPerformed(ActionEvent evt){
-        LOG.debug("Entering btnExitActionPerformed...");
+        LOG.debug("Entering MazeSolver.btnExitActionPerformed()...");
         
         frame.dispose();
         
-        LOG.debug("Exiting btnExitActionPerformed...");
+        LOG.debug("Exiting MazeSolver.btnExitActionPerformed())...");
     }
     /* End of Event Handling ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
@@ -362,14 +374,10 @@ public class MazeSolver {
     ** Everything found in the main class will either call another object to  **
     ** handle the logic and algorithm, or handle the GUI.                     */
     public static void main(String[] args) throws InterruptedException { 
-        //Intialize frame and its components and make visible when complete
-        LOG.debug("Initializing GUI components");
-        
+        //Intialize frame and its components and make visible when complete      
         frame = new JFrame();
         initComponents(frame);    
         frame.setVisible(true);    
-        
-        LOG.debug("Initialization Complete");
     }
     
 }
