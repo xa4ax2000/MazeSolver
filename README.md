@@ -6,8 +6,8 @@ This project expands on his application of the Bredth First Search Algorithm tow
 
 Goals of this Project:
   -Application of BFS Algorithm [x]
-  -Application of DFS Algorithm [ ]
-  -Visual Representation of Solved Maze Pathway [ ]
+  -Application of DFS Algorithm [x]
+  -Visual Representation of Solved Maze Pathway [x]
   -Timer Function to compare Algorithms [x]
   -Application to Orthoganal Mazes [x]
   -Application to Circular Mazes [ ]
@@ -18,8 +18,12 @@ Optional:
   
 
 The mazes were generated using a third party program called Daedalus: www.astrolog.org/labyrnth/daedalus.htm
-The program has ben extracted and put inside the directory: ".../src/res/Daedalus"
-This program DOES NOT belong to me; however it has been used to generate the pixelized mazes that will be inserted to
+
+The Daedalus package has been REMOVED from the repository (you can download it for yourself in the link above).
+This package has been removed because it was a tool used to generate mazes -- it did not serve a purpose with 
+the underlying logic of my program nor was it an extension of the maze generation from Daedalus.
+
+This program (Daedalus) DOES NOT belong to me; however it has been used to generate the pixelized mazes that will be inserted to
 test cases and solve mazes. For more information regarding Daedalus and its usage, plase go to their site as I had 
 posted above.
 
@@ -69,6 +73,12 @@ If you have any questions or regards feel free to contact me via e-mail.
   Finally, have to implement the Output of the program in the Graph.draw() method to the folder path
   Probably need to refine the INFO logs.
   What is after that? Determining a method to convert Circular mazes into an array or some container.
+  
+3/22/17:
+  Added DFS algorithm
+  Retouched on the GUI and Event Handling logic -- 
+    1.  Added ChangedEvent Lisener to JTabbedPane to handle tab event change.
+    2.  Added/Extended on Circular Layout GUI
   
 
 This README.txt will be updated as the project continues....
