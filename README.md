@@ -76,7 +76,7 @@ If you have any questions or regards feel free to contact me via e-mail.
   
 3/22/17:
   Added DFS algorithm
-  Retouched on the GUI and Event Handling logic -- 
+  Retouched on the GUI and Event Handling logic -
     1.  Added ChangedEvent Lisener to JTabbedPane to handle tab event change.
     2.  Added/Extended on Circular Layout GUI
   
