@@ -36,10 +36,6 @@ public abstract class Algorithm {
     /* End of Constructor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
     /* Universal Methods ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-        public Node getFinalNode(){
-            return exit;
-        }
-        
         public double getTime(){
             return (double)(stopTime-startTime)/1000;
         }

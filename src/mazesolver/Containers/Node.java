@@ -23,7 +23,7 @@ public class Node {
     private boolean searched;
     private ArrayList<Node> adjacentNodeList;
     private Node parentNode = null;
-    private int x, y;
+    private int x, y, pathLength;
     
     /*Start of Constructors ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/ 
     public Node(Type type){
@@ -83,6 +83,14 @@ public class Node {
     public int getY(){
         return y;
     }
+    
+    public void setPathLength(int pathLength){
+        this.pathLength=pathLength;
+    }
+    
+    public int getPathLength(){
+        return pathLength;
+    }
     /* End of Getters ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     /* Start of Functions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
@@ -91,7 +99,7 @@ public class Node {
         public void visited(){
             LOG.debug("Entering Node.visited() method...");
             searched = true;
-            LOG.debug("Exiting Mode.visited() method...");
+            LOG.debug("Exiting Node.visited() method...");
         }
         
         public void addAdjNode(Node node){

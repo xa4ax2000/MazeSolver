@@ -1,7 +1,9 @@
 package mazesolver.Containers;
 
+import java.awt.image.ColorModel;
 import java.awt.image.BufferedImage;
 import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
@@ -10,6 +12,7 @@ import mazesolver.Mazes.Maze;
 import mazesolver.Mazes.RectMaze;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
 
 /**
  *
@@ -24,21 +27,23 @@ public class Graph {
         private Maze maze = null;
         private final String typeOfMaze;
         private BufferedImage img;
-        private String pathSolution;
+        private String solutionName;
         private int width, height;
         private static Raster scannedImage;
         private Node[][] mazeToNodeArray;
         private Node start, exit;
+        private ColorModel colorModel;
     /* End of defining variables/containers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
         
     /* Constructor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-    public Graph(File imageFile, String pathSolution, String typeOfMaze){
+    public Graph(File imageFile, String solutionName, String typeOfMaze){
         LOG.debug("Entering Graph Constructor...");
         
         //store the imageFile into a BufferedImage and the absolute path to put output
-        this.pathSolution = pathSolution;
+        this.solutionName = solutionName;
         try{
             img = ImageIO.read(imageFile);
+            colorModel = img.getColorModel();
             LOG.info("Image file has been initialized.");
         }catch(IOException ex){
             LOG.error("Error has occurred: " + ex.toString());
@@ -132,6 +137,24 @@ public class Graph {
         
         LOG.debug("Exiting Graph.createGraph()...");
         return new Node[] {start, exit};
+    }
+    
+    public void drawMaze(){
+        LOG.debug("Entering Graph.drawMaze()...");     
+        
+        System.out.println(exit.getPathLength());
+        WritableRaster writableImage = maze.draw(exit);        
+        /* Writing BufferedImage and Output file                              */
+        try{
+            BufferedImage imgSolution = new BufferedImage(colorModel, writableImage, true, null);
+            File outputFile = new File("./src/res/Mazes/Rectangular/Solutions/" + solutionName + ".png");
+            System.out.println(solutionName);
+            ImageIO.write(imgSolution, "png", outputFile);
+        }catch(Exception ex){
+            LOG.error("Output Exception Error: " + ex.toString());
+        }
+        
+        LOG.debug("Exiting Graph.drawMaze()...");
     }
 
     /* End of Object's functions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/

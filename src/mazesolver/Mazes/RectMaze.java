@@ -1,6 +1,7 @@
 package mazesolver.Mazes;
 
 import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import mazesolver.Containers.Node;
@@ -17,6 +18,7 @@ public class RectMaze extends Maze{
     
     /* Define Class Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     private int[] pixel;
+    private int debugCount = 0;
     /* End of Definition of Class Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     /* Start of Constructor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
@@ -308,7 +310,84 @@ public class RectMaze extends Maze{
     }
 
     @Override
-    public void draw() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    public WritableRaster draw(Node node) {
+        LOG.debug("Entering RectMaze.draw()...");
+        
+        /* Define and Initialize Variables                                    */
+        final int pathLength, spaces;
+        pathLength = node.getPathLength();
+        spaces = (pathLength%100==0)? 1 : pathLength%100;
+        int diff;
+        int counter = spaces;
+        Node currNode, parentNode;
+        currNode = node;
+        WritableRaster writableImage = (WritableRaster)scannedImage;
+        /* Define a pixel sample array of color blue: R-G-B: 0-100-255 to 0-200-255*/
+        pixel[0] = 0; pixel[1] = 100; pixel[2] = 255; 
+        
+        /* Traverse node by node to fill in pixels between them               */
+        while(currNode.getParentNode() != null){
+            parentNode = currNode.getParentNode();                              //Sets parent node
+            
+            /* compare x and y positions to determine which way to traverse   */
+            if(currNode.getX()==parentNode.getX()){                             //Need to fill pixels vertically
+                if(currNode.getY()<parentNode.getY()){                          //If currNode is below parentNode
+                    diff = currNode.getY() - parentNode.getY();
+                    diff = Math.abs(diff);
+                    for(int i = 0; i < diff; i++){                              //fill all node colors up to parentNode
+                        writableImage.setPixel(currNode.getX(), currNode.getY()+i, pixel);
+                        /* To change the color of pixels as it progresses     */
+                        counter--;
+                        if(counter == 0){
+                            counter = spaces;
+                            pixel[1] = pixel[1]+1;
+                        }
+                    }
+                }else{                                                          //If currNode is above parentNode
+                    diff = currNode.getY() - parentNode.getY();
+                    diff = Math.abs(diff);
+                    for(int i = 0; i < diff; i++){                              //fill all node colors up to parentNode
+                        writableImage.setPixel(currNode.getX(), currNode.getY()-i, pixel);
+                        /* To change the color of pixels as it progresses     */
+                        counter--;
+                        if(counter == 0){
+                            counter = spaces;
+                            pixel[1] = pixel[1]+1;
+                        }
+                    }
+                }
+            }else{                                                              //Need to fill pixels horizontally
+                if(currNode.getX()<parentNode.getX()){                          //If currNode is to the left of parentNode
+                    diff = currNode.getX() - parentNode.getX();
+                    diff = Math.abs(diff);
+                    for(int i = 0; i < diff; i++){                              //fill all node colors up to parentNode
+                        writableImage.setPixel(currNode.getX()+i, currNode.getY(), pixel);
+                        /* To change the color of pixels as it progresses     */
+                        counter--;
+                        if(counter == 0){
+                            counter = spaces;
+                            pixel[1] = pixel[1]+1;
+                        }
+                    }
+                }else{                                                          //If currNode is to the right of parentNode
+                    diff = currNode.getX() - parentNode.getX();
+                    diff = Math.abs(diff);
+                    for(int i = 0; i < diff; i++){                              //fill all node colors up to parentNode
+                        writableImage.setPixel(currNode.getX()-i, currNode.getY(), pixel);
+                        /* To change the color of pixels as it progresses     */
+                        counter--;
+                        if(counter == 0){
+                            counter = spaces;
+                            pixel[1] = pixel[1]+1;
+                        }
+                    }
+                }
+            }
+            currNode = parentNode;                                              //allows progression in the while loop
+        }
+        writableImage.setPixel(currNode.getX(), currNode.getY(), pixel);        //sets the final pixel on the 'START' node
+        
+        LOG.debug("Exiting RectMaze.draw()...");
+        return writableImage;
     }
 }

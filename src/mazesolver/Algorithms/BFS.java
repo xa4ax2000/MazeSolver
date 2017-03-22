@@ -23,8 +23,8 @@ public class BFS extends Algorithm {
     /* End of Definition/Initialization of Logger Variable ~~~~~~~~~~~~~~~~~~~*/
     
     /* Define Class Variables ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+        private int pathLength;
         private Queue<Node> q;
-        private Node start, exit;
     /* End of Class Variable Definition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
     
     /* Start of Constructor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
@@ -32,11 +32,10 @@ public class BFS extends Algorithm {
         super(start, exit);
         LOG.debug("Entering BFS Class constructor...");
         
-        this.start = start;
-        this.exit = exit;
-        
-        //initialize stack and add start node
+        pathLength = 1;
+        //initialize queue and add start node
         q = new ConcurrentLinkedQueue<Node>();
+        start.setPathLength(pathLength);
         q.add(start);
         
         LOG.debug("Exiting BFS Class constructor...");
@@ -48,11 +47,12 @@ public class BFS extends Algorithm {
     public void findSolution() {
         LOG.debug("Entering BFS.findSolution() method...");
         
+        //Start timer
         LOG.info("starting BFS algorithm -- Timer started...");
         startTime = System.currentTimeMillis();
         
         //Define Local Variables
-        Node currNode = null;
+        Node currNode;
         
         //While the Queue is not empty...
         while(!q.isEmpty()){   
@@ -66,12 +66,14 @@ public class BFS extends Algorithm {
                     Node tempNode = (Node)iterator.next();
                     if(!tempNode.getVisited()){
                         tempNode.setParentNode(currNode);
+                        tempNode.setPathLength(currNode.getPathLength()+1);
                         q.add(tempNode);
                     }
                 }
             }
         }
         
+        //Stop Timer
         stopTime = System.currentTimeMillis();
         LOG.info("BFS algorithm complete. Timer stopped.");
         

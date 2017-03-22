@@ -6,6 +6,7 @@
 package mazesolver.Mazes;
 
 import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 import mazesolver.Containers.Node;
 
 /**
@@ -44,7 +45,7 @@ public class CircMaze extends Maze{
     }
 
     @Override
-    public void draw() {
+    public WritableRaster draw(Node node) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     

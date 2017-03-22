@@ -1,6 +1,7 @@
 package mazesolver.Mazes;
 
 import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 import mazesolver.Containers.Node;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -43,6 +44,6 @@ public abstract class Maze {
     public abstract void setMazeNodes();
     public abstract void connectEntranceExitAdjNodes(Node start, Node exit);
     public abstract void connectMAZEAdjacentNodes();
-    public abstract void draw();
+    public abstract WritableRaster draw(Node finalNode);
     /* End of Declaring Abstract Methods ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 }
