@@ -10,7 +10,7 @@ Goals of this Project:
   -Visual Representation of Solved Maze Pathway [x]
   -Timer Function to compare Algorithms [x]
   -Application to Orthoganal Mazes [x]
-  -Application to Circular Mazes [ ]
+  -Application to Circular Mazes [ ] *****SEE BELOW*****
   
 Optional:
   -Application to Triangular Mazes [ ]
@@ -79,6 +79,12 @@ If you have any questions or regards feel free to contact me via e-mail.
   Retouched on the GUI and Event Handling logic -
     1.  Added ChangedEvent Lisener to JTabbedPane to handle tab event change.
     2.  Added/Extended on Circular Layout GUI
-  
+
+3/24/17:
+***********************************************"Application to Circular Mazes"***********************************************
+I am finding difficulty in trying to apply my method of creating "nodes" within the circular maze. The ORIGINAL plan was to use
+Hough Transform Algorithm (Line and Circle) to create an int[#circles][#overall radii walls]. Unfortunately, the thresholds that I
+have been adjusting to pick up certain lines, skew some information and would probably not be able to work. As a result, this project
+will be on hold until another solution can be thought of (or perhaps more work on the image line and circle detection algorithms).
 
 This README.txt will be updated as the project continues....
